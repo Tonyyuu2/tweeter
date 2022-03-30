@@ -1,0 +1,30 @@
+nav {
+  height: 120px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: #4056A1;
+  color: #FFFFFF;
+  font-family: 'Bungee';
+  padding: 1.5em;
+  z-index: 1;
+}
+
+.logo {
+  font-size: 32px;
+}
+
+.write-tweet {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.font {
+  font-size: 18px;
+}
+
+.fa-solid {
+  color: red;
+}
+
