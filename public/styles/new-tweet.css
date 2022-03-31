@@ -13,6 +13,7 @@ textarea {
   background-color: transparent;
   height: 1.5em;
   padding-bottom: 1.5em;
+  overflow: hidden;
 }
 
 .bottom-stuff {
@@ -20,4 +21,14 @@ textarea {
   justify-content: space-between;
   font-family: 'Bungee', sans-serif;
   padding-top: 0.5em;
+}
+
+  .validation {
+  background: #c51244 !important;
+  padding: 10px !important;
+  border-radius: 0 !important;
+  position: relative; 
+  display: none;
+  box-shadow: 1px 1px 1px #aaaaaa;
+  margin: 0.5em;
 }
