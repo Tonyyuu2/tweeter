@@ -19,14 +19,42 @@ body {
   background-color: #f4f1ec;
   font-size: 24px;
   font-family: 'Source Sans Pro', sans-serif;
+  width: 100%;
 }
 
 /*
  * Additional CSS can be defined below or in other CSS files, as per instructions
  */
- main {
+main {
    width: 90%;
    margin: 0 auto;
    background-color: #f4f1ec;
-   
- }
+}
+
+/* @media (max-width: 1024px) {
+  #main-header {
+    display: flex;
+    flex-direction: row;
+    height: 250px;
+  }
+} */
+
+@media (min-width: 1024px) {
+  #content-wrapper {
+    display: flex;
+  }
+  #main-header {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 2.5em;
+    margin-top: 3em;
+    border-radius: 10%;
+  }
+  .container {
+    width: 100%;
+    margin-top: 2.6em;
+    margin-right: 4%;
+    margin-left: 10%;
+  }
+}

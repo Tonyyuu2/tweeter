@@ -11,7 +11,7 @@ textarea {
   border-style: none;
   border-bottom: 5px solid black;
   background-color: transparent;
-  height: 1.5em;
+  height: 2em;
   padding-bottom: 1.5em;
   overflow: hidden;
 }
@@ -23,7 +23,7 @@ textarea {
   padding-top: 0.5em;
 }
 
-  .validation {
+.validation {
   background: #c51244 !important;
   padding: 10px !important;
   border-radius: 0 !important;
@@ -31,4 +31,7 @@ textarea {
   display: none;
   box-shadow: 1px 1px 1px #aaaaaa;
   margin: 0.5em;
+  text-align: center;
+  font-weight: bold;
+  font-size: larger;
 }

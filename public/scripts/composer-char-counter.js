@@ -1,6 +1,5 @@
 $(document).ready(function() {
   const newTweets = $("#tweet-text");
-  // newTweets.val("hello")
   newTweets.on("input", function() {
     const characterCount = $(this).val().length;
     const outputLength = 140 - characterCount;
