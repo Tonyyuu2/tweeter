@@ -4,6 +4,17 @@ Tweeter is a simple, single-page Twitter clone.
 
 This repository is the starter code for the project: Students will fork and clone this repository, then build upon it to practice their HTML, CSS, JS, jQuery and AJAX front-end skills, and their Node, Express back-end skills.
 
+## Screenshots
+
+![Error message for exceeding word count](https://github.com/Tonyyuu2/tweeter/blob/master/docs/Error%20message%20for%20exceeding%20word%20count.png)
+
+![Error message for no input](https://github.com/Tonyyuu2/tweeter/blob/master/docs/Error%20message%20for%20no%20input.png)
+
+![Tweeter at full resolution](https://github.com/Tonyyuu2/tweeter/blob/master/docs/Tweeter%20at%20%20full%20resolution.png)
+
+![Tweeter at mobile resolution](https://github.com/Tonyyuu2/tweeter/blob/master/docs/Tweeter%20at%20mobile%20resolution.png)
+
+
 
 ## Getting Started
 
